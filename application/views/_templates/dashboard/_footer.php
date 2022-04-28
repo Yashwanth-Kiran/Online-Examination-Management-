@@ -10,7 +10,7 @@
 					Online Examination System
 				</div>
 				<!-- Default to the left -->
-				<strong>&copy; <?php echo date('Y')?> - Developed by Muhammad Ghifari Arfananda. </strong> All rights reserved
+				<strong>&copy; <?php echo date('Y')?> - Developed by Vattikonda Yashwanth Kiran </strong> All rights reserved
 			</footer>
 
 			</div>
